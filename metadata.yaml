@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40833'
     url: http://www.gutenberg.org/2009/agents/40833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40820#Dizionario-storico-critico-degli-scrittori-di-musica-e-de-pi--celebri-artisti-vol.-4--of-4-Di_
 gutenberg_bookshelf: IT Musica
 gutenberg_issued: '2012-09-21'
 gutenberg_type: Text
